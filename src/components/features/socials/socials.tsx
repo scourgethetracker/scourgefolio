@@ -2,7 +2,6 @@ import React from 'react'
 import { Headings } from '../../core/headings/headings'
 import {
   Github,
-  Instagram,
   LinkedIn,
   Blog,
   socialLinks,

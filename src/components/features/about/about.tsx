@@ -19,7 +19,7 @@ const About = React.forwardRef<HTMLDivElement>((props, ref) => {
         and performance testing.
         &nbsp;<br/><br/>
         In my spare time I explore assistive technogoloy, security techonology both cybersecurity and physical security, 
-        3D printing, wood & metal working. I'm also an experienced TTRPG enthusiast (as both DM and Player where applicable)
+        3D printing, wood & metal working. I&apos;m also an experienced TTRPG enthusiast (as both DM and Player where applicable)
         and home brewer &#127867;.
         &nbsp;<br/><br/>
         {/* 🔗 Update the href attribute with your Socials link */}
