@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+HTTPS=true SSL_CRT_FILE=cert.crt SSL_KEY_FILE=cert.key npm start
